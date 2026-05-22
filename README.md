@@ -9,7 +9,6 @@ A modern ipar és az *Ipar 4.0 (Industry 4.0)* koncepciójának egyik legfontosa
 
 A projekt nem csupán egy egyszerű, manuálisan irányítható rendszert valósít meg. A fő cél egy olyan rögzítés és visszajátszás funkció integrálása volt, amely lehetővé teszi, hogy a kezelő betanítson egy mozdulatsort a robotkarnak, amelyet az a későbbiekben emberi beavatkozás nélkül, végtelen ciklusban képes önállóan megismételni. A rendszer állapotáról egy 16x2-es LCD kijelző, valamint állapotjelző LED-ek adnak valós idejű visszajelzést a kezelőnek.
 
-**Képernyőkép**
 ![TinkerCadScreenshot](TinkerCadScreenshot.png)
 
 
