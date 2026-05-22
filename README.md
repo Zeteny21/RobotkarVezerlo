@@ -1,7 +1,5 @@
-# PROJEKT DOKUMENTÁCIÓ
+# Ipari robotkar vezérlőrendszer
 
-**Tárgy:** Digitális Technika  
-**Projekt címe:** Ipari robotkar vezérlőrendszer
 **Készítette:** Gajdos Dávid [JIEF0F] 
 
 ---
@@ -55,3 +53,7 @@ A projekt tökéletesen imitálja egy robotkar működésének alapjait.
 * **Inverz kinematika:** Ezzel a módszerrel a potenciométerek a robotkar "kézfejének" X-Y-Z térbeli koordinátáit állítanák be, amit az Arduino számolna át ízületi szögértékekké matematikai mátrixok segítségével.
 
 ---
+
+
+
+[TinkerCad Projekt Link]("https://www.tinkercad.com/things/8mAN66CU1QG-ipari-robotkar-vezerlorendszer")
